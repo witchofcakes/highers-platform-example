@@ -1,0 +1,169 @@
+.employer-vacancy-li{
+    font-size: 15px;
+    color: var(--black);
+    font-weight: 400;
+}
+
+.employer-vacancy-card-body{
+    display: flex;
+    margin-top: 25px;
+}
+
+.employer-button-applies{
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    color: var(--black);
+    font-size: 15px;
+    width: 100%;
+}
+
+.margin-right-left-button{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.employer-vacancy-ul{
+    margin-left: -25px;
+}
+
+.chevron-employer-applies{
+    margin-bottom: 3px;
+    margin-right: 3px;
+}
+
+.resume-table-button{
+    background: white;
+    border-radius: 25px;
+    padding: 5px 15px;
+    color: var(--black);
+    border: 1px solid #ccc;
+    font-size: 14px;
+    font-weight: 400;
+    box-shadow: 2px 2px 2px -1px rgba(0, 0, 0, 0.26);
+}
+
+.download-employer-applies{
+    margin-right: 7px;
+}
+
+.table-div-container{
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 2px 4px rgba(38, 38, 38, 0.25);
+    /*padding: 20px;*/
+    /*min-width: 650px;*/
+}
+
+.title-table-text{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #36393C;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+.title-table-text-padding-l{
+    padding-left: 20px;
+}
+
+.title-table-text-padding-r{
+    padding-right: 20px;
+}
+
+.title-of-page-applies{
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--gray);
+    margin-bottom: 5px;
+}
+
+.title-of-page-applies-vacancy{
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--black);
+    margin-bottom: 40px;
+}
+
+.blue-link-button-applies{
+    background: none;
+    border: none;
+    color: var(--blue);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.td-table-text{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.table-row-line{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ebebec;
+}
+
+.table-head-main{
+    /*margin-bottom: 20px;*/
+    border-bottom: 1px solid gray;
+}
+
+.table-head-row{
+    /*margin-bottom: 20px;*/
+}
+
+.download-resumes-button{
+    background: darkorange;
+    color: white;
+    border-radius: 25px;
+    padding: 5px 10px;
+    font-size: 14px;
+    border: none;
+}
+
+.card-vacancy-overflow {
+    border-radius: 10px;
+    /* width: 100%; */
+    /* height: 100%; */
+    background-color: hsl(19deg 7% 36% / 11%);
+    position: absolute;
+    z-index: 33;
+    /* background: wheat; */
+    left: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
+}
+
+.card-vacancy-body-content {
+    margin: 20px;
+    z-index: 33;
+}
+
+.card-vacancy-body-employer{
+    border: 1px solid #f5f5f5;
+    border-radius: 10px;
+    max-width: 510px;
+    /*border: 1px solid #EBEBEB;*/
+    box-sizing: border-box;
+    box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.06);
+    background: white;
+    position: relative;
+    z-index: 1;
+}
+
+.activate-button-employer-vacancy{
+    z-index: 40;
+}
+
+.activate-button-shadow{
+    box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+}

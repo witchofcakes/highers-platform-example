@@ -2,306 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6cef36c-5ba8-43fb-b410-f91cda1cb2c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/blueLinkButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/landing/companiesBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/landing/filters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/landing/finishBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/landing/landing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/landing/opportunitiesBlock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/vacancies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/vacancyCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/images/chevron-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/images/deloitte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/images/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/images/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/images/procredit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/images/salary.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/images/telegram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/stylesheets/vacancies.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/platform.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.idea/platform.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/BackdropUnstyled/backdropUnstyledClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/BackdropUnstyled/backdropUnstyledClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/BadgeUnstyled/badgeUnstyledClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/BadgeUnstyled/badgeUnstyledClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/ButtonUnstyled.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/ButtonUnstyled.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/ButtonUnstyledProps.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/ButtonUnstyledProps.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/UseButtonProps.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/UseButtonProps.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/buttonUnstyledClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/buttonUnstyledClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/useButton.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/useButton.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/useButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ButtonUnstyled/useButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/FormControlContext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/FormControlContext.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/FormControlUnstyled.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/FormControlUnstyled.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/FormControlUnstyledProps.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/FormControlUnstyledProps.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/formControlUnstyledClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/formControlUnstyledClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/useFormControl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/FormControlUnstyled/useFormControl.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ModalUnstyled/ModalManager.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ModalUnstyled/ModalManager.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/ModalUnstyled/modalUnstyledClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/ModalUnstyled/modalUnstyledClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/SliderUnstyled/SliderUnstyled.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/SliderUnstyled/SliderUnstyled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/SliderUnstyled/sliderUnstyledClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/SliderUnstyled/sliderUnstyledClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/SwitchUnstyled/SwitchUnstyled.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/SwitchUnstyled/SwitchUnstyled.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/SwitchUnstyled/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/SwitchUnstyled/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/SwitchUnstyled/switchUnstyledClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/SwitchUnstyled/switchUnstyledClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/SwitchUnstyled/useSwitch.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/SwitchUnstyled/useSwitch.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/composeClasses/composeClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/composeClasses/composeClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/composeClasses/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/composeClasses/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/generateUtilityClass/generateUtilityClass.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/generateUtilityClass/generateUtilityClass.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/generateUtilityClass/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/generateUtilityClass/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/generateUtilityClasses/generateUtilityClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/generateUtilityClasses/generateUtilityClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/generateUtilityClasses/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/generateUtilityClasses/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/legacy/ButtonUnstyled/useButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/legacy/ButtonUnstyled/useButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/legacy/SliderUnstyled/SliderUnstyled.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/legacy/SliderUnstyled/SliderUnstyled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/legacy/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/legacy/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/modern/ButtonUnstyled/useButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/modern/ButtonUnstyled/useButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/modern/SliderUnstyled/SliderUnstyled.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/modern/SliderUnstyled/SliderUnstyled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/modern/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/modern/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/node/ButtonUnstyled/useButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/node/ButtonUnstyled/useButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/node/SliderUnstyled/SliderUnstyled.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/node/SliderUnstyled/SliderUnstyled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/node/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/node/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/utils/appendOwnerState.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/utils/appendOwnerState.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/utils/extractEventHandlers.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/utils/extractEventHandlers.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/utils/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/utils/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/core/utils/isHostComponent.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/core/utils/isHostComponent.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Accordion/accordionClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Accordion/accordionClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/AccordionActions/accordionActionsClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/AccordionActions/accordionActionsClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/AccordionDetails/accordionDetailsClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/AccordionDetails/accordionDetailsClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/AccordionSummary/accordionSummaryClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/AccordionSummary/accordionSummaryClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Alert/alertClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Alert/alertClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/AlertTitle/alertTitleClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/AlertTitle/alertTitleClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/AppBar/appBarClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/AppBar/appBarClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Autocomplete/autocompleteClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Autocomplete/autocompleteClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Avatar/avatarClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Avatar/avatarClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/AvatarGroup/avatarGroupClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/AvatarGroup/avatarGroupClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/BottomNavigation/bottomNavigationClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/BottomNavigation/bottomNavigationClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/BottomNavigationAction/bottomNavigationActionClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/BottomNavigationAction/bottomNavigationActionClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Breadcrumbs/breadcrumbsClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Breadcrumbs/breadcrumbsClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Button/buttonClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Button/buttonClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ButtonBase/buttonBaseClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ButtonBase/buttonBaseClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ButtonBase/touchRippleClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ButtonBase/touchRippleClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ButtonGroup/buttonGroupClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ButtonGroup/buttonGroupClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Card/cardClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Card/cardClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/CardActionArea/cardActionAreaClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/CardActionArea/cardActionAreaClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/CardActions/cardActionsClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/CardActions/cardActionsClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/CardContent/cardContentClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/CardContent/cardContentClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/CardHeader/cardHeaderClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/CardHeader/cardHeaderClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/CardMedia/cardMediaClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/CardMedia/cardMediaClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Checkbox/checkboxClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Checkbox/checkboxClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Chip/chipClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Chip/chipClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/CircularProgress/circularProgressClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/CircularProgress/circularProgressClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ClickAwayListener/ClickAwayListener.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ClickAwayListener/ClickAwayListener.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ClickAwayListener/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ClickAwayListener/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Collapse/Collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Collapse/Collapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Collapse/collapseClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Collapse/collapseClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Container/containerClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Container/containerClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Dialog/DialogContext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Dialog/DialogContext.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Dialog/dialogClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Dialog/dialogClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/DialogActions/dialogActionsClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/DialogActions/dialogActionsClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/DialogContent/dialogContentClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/DialogContent/dialogContentClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/DialogContentText/dialogContentTextClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/DialogContentText/dialogContentTextClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/DialogTitle/dialogTitleClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/DialogTitle/dialogTitleClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Divider/dividerClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Divider/dividerClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Drawer/drawerClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Drawer/drawerClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Fab/fabClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Fab/fabClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Fade/Fade.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Fade/Fade.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/FilledInput/filledInputClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/FilledInput/filledInputClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/FormControl/formControlClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/FormControl/formControlClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/FormControlLabel/formControlLabelClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/FormControlLabel/formControlLabelClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/FormGroup/formGroupClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/FormGroup/formGroupClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/FormHelperText/formHelperTextClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/FormHelperText/formHelperTextClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/FormLabel/formLabelClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/FormLabel/formLabelClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Grid/gridClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Grid/gridClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Grow/Grow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Grow/Grow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Icon/iconClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Icon/iconClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/IconButton/iconButtonClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/IconButton/iconButtonClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ImageList/imageListClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ImageList/imageListClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ImageListItem/imageListItemClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ImageListItem/imageListItemClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ImageListItemBar/imageListItemBarClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ImageListItemBar/imageListItemBarClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Input/inputClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Input/inputClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/InputAdornment/inputAdornmentClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/InputAdornment/inputAdornmentClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/InputBase/inputBaseClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/InputBase/inputBaseClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/InputLabel/InputLabel.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/InputLabel/InputLabel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/InputLabel/inputLabelClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/InputLabel/inputLabelClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/LinearProgress/linearProgressClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/LinearProgress/linearProgressClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Link/linkClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Link/linkClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/List/listClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/List/listClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItem/listItemClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItem/listItemClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemAvatar/listItemAvatarClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemAvatar/listItemAvatarClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemButton/listItemButtonClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemButton/listItemButtonClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemIcon/listItemIconClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemIcon/listItemIconClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemSecondaryAction/listItemSecondaryActionClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemSecondaryAction/listItemSecondaryActionClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemText/listItemTextClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ListItemText/listItemTextClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ListSubheader/listSubheaderClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ListSubheader/listSubheaderClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Menu/menuClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Menu/menuClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/MenuItem/menuItemClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/MenuItem/menuItemClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/MobileStepper/mobileStepperClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/MobileStepper/mobileStepperClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/NativeSelect/nativeSelectClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/NativeSelect/nativeSelectClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/OutlinedInput/outlinedInputClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/OutlinedInput/outlinedInputClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Pagination/paginationClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Pagination/paginationClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/PaginationItem/paginationItemClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/PaginationItem/paginationItemClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Paper/paperClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Paper/paperClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Popover/popoverClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Popover/popoverClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Radio/radioClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Radio/radioClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Rating/ratingClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Rating/ratingClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ScopedCssBaseline/scopedCssBaselineClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ScopedCssBaseline/scopedCssBaselineClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Select/selectClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Select/selectClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Skeleton/skeletonClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Skeleton/skeletonClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Slide/Slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Slide/Slide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Snackbar/snackbarClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Snackbar/snackbarClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/SnackbarContent/snackbarContentClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/SnackbarContent/snackbarContentClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/SpeedDial/speedDialClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/SpeedDial/speedDialClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/SpeedDialAction/speedDialActionClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/SpeedDialAction/speedDialActionClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/SpeedDialIcon/speedDialIconClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/SpeedDialIcon/speedDialIconClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Step/stepClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Step/stepClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/StepButton/stepButtonClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/StepButton/stepButtonClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/StepConnector/stepConnectorClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/StepConnector/stepConnectorClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/StepContent/stepContentClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/StepContent/stepContentClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/StepIcon/stepIconClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/StepIcon/stepIconClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/StepLabel/stepLabelClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/StepLabel/stepLabelClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Stepper/stepperClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Stepper/stepperClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/SvgIcon/svgIconClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/SvgIcon/svgIconClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Switch/switchClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Switch/switchClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Tab/tabClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Tab/tabClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TabScrollButton/tabScrollButtonClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TabScrollButton/tabScrollButtonClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Table/tableClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Table/tableClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TableBody/tableBodyClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TableBody/tableBodyClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TableCell/tableCellClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TableCell/tableCellClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TableContainer/tableContainerClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TableContainer/tableContainerClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TableFooter/tableFooterClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TableFooter/tableFooterClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TableHead/tableHeadClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TableHead/tableHeadClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TablePagination/tablePaginationClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TablePagination/tablePaginationClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TableRow/tableRowClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TableRow/tableRowClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TableSortLabel/tableSortLabelClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TableSortLabel/tableSortLabelClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Tabs/tabsClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Tabs/tabsClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/TextField/textFieldClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/TextField/textFieldClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ToggleButton/toggleButtonClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ToggleButton/toggleButtonClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/ToggleButtonGroup/toggleButtonGroupClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/ToggleButtonGroup/toggleButtonGroupClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Toolbar/toolbarClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Toolbar/toolbarClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Tooltip/Tooltip.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Tooltip/Tooltip.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Tooltip/Tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Tooltip/Tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Tooltip/tooltipClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Tooltip/tooltipClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Typography/typographyClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Typography/typographyClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/Zoom/Zoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/Zoom/Zoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/amber.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/amber.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/blue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/blue.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/blueGrey.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/blueGrey.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/brown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/brown.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/common.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/common.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/cyan.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/cyan.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/deepOrange.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/deepOrange.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/deepPurple.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/deepPurple.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/green.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/green.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/grey.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/grey.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/indigo.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/indigo.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/lightBlue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/lightBlue.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/lightGreen.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/lightGreen.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/lime.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/lime.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/orange.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/orange.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/pink.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/pink.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/purple.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/purple.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/red.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/red.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/teal.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/teal.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/yellow.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/colors/yellow.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/darkScrollbar/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/darkScrollbar/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/internal/switchBaseClasses.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/internal/switchBaseClasses.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Collapse/Collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Collapse/Collapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Fade/Fade.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Fade/Fade.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Grow/Grow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Grow/Grow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/InputLabel/InputLabel.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/InputLabel/InputLabel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Slide/Slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Slide/Slide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Tooltip/Tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Tooltip/Tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Zoom/Zoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/Zoom/Zoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/legacy/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/locale/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/locale/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Collapse/Collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Collapse/Collapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Fade/Fade.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Fade/Fade.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Grow/Grow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Grow/Grow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/InputLabel/InputLabel.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/InputLabel/InputLabel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Slide/Slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Slide/Slide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Tooltip/Tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Tooltip/Tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Zoom/Zoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/Zoom/Zoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/modern/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Collapse/Collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Collapse/Collapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Fade/Fade.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Fade/Fade.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Grow/Grow.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Grow/Grow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node/InputLabel/InputLabel.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/node/InputLabel/InputLabel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Slide/Slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Slide/Slide.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Tooltip/Tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Tooltip/Tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Zoom/Zoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/node/Zoom/Zoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/node/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/build-info.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/cjs/react-is.development.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/cjs/react-is.production.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/umd/react-is.development.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/node_modules/react-is/umd/react-is.production.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/styles/components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/styles/components.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/styles/props.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/styles/props.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/styles/styled.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/styles/styled.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/transitions/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/transitions/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/transitions/transition.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/transitions/transition.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/transitions/utils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/transitions/utils.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/umd/material-ui.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/umd/material-ui.development.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/umd/material-ui.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/umd/material-ui.production.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/useMediaQuery/useMediaQuery.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/useMediaQuery/useMediaQuery.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/useTouchRipple/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/useTouchRipple/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/useTouchRipple/useTouchRipple.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/useTouchRipple/useTouchRipple.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/utils/getScrollbarSize.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/utils/getScrollbarSize.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/utils/ownerDocument.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/utils/ownerDocument.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/utils/ownerWindow.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/utils/ownerWindow.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/material/utils/setRef.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/material/utils/setRef.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/Box/Box.spec.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/Box/Box.spec.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/createStyled.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/createStyled.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/createTheme/createSpacing.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/createTheme/createSpacing.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/esm/spacing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/esm/spacing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/index.spec.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/index.spec.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/legacy/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/legacy/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/legacy/spacing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/legacy/spacing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/modern/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/modern/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/modern/spacing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/modern/spacing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/spacing.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/spacing.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/@mui/system/spacing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/@mui/system/spacing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/landing/startCareerEasyBlock.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/routes/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/routes/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/stylesheets/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/stylesheets/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/stylesheets/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/stylesheets/landing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/_redirects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/robots.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -326,27 +48,25 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1z8ROas57stas2BgkXn3WTPXbvb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/images" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tanya\WebstormProjects\platform\client\src\components" />
       <recent name="C:\Users\tanya\WebstormProjects\platform\client\src\images" />
       <recent name="C:\Users\tanya\WebstormProjects\platform" />
     </key>
@@ -380,7 +100,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633527696902</updated>
-      <workItem from="1633527698319" duration="49040000" />
+      <workItem from="1633527698319" duration="69625000" />
+      <workItem from="1634314580203" duration="102648000" />
+      <workItem from="1635753845672" duration="42710000" />
+      <workItem from="1636801971007" duration="8388000" />
+      <workItem from="1638464849004" duration="6665000" />
+      <workItem from="1638541727563" duration="6955000" />
+      <workItem from="1638618674938" duration="42472000" />
+      <workItem from="1639224108195" duration="21375000" />
+      <workItem from="1639301331433" duration="20355000" />
+      <workItem from="1658063450122" duration="24000" />
+      <workItem from="1658064737535" duration="1871000" />
     </task>
     <servers />
   </component>
@@ -400,5 +130,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

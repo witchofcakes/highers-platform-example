@@ -1,0 +1,137 @@
+
+
+
+.candidate-choose-resume-button{
+    padding: 10px 20px;
+    color: var(--black);
+    font-size: 16px;
+    border: 1.5px solid var(--black);
+    border-radius: 25px;
+    font-weight: 500;
+    background: white;
+}
+
+.candidate-choose-resume-button:hover{
+    cursor: pointer;
+}
+
+.box-resume{
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #e7e7e7;
+    box-shadow: rgb(0 0 0 / 10%) 0px 1px 3px 0px, rgb(0 0 0 / 6%) 0px 1px 2px 0px;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px 10px 10px;
+    height: 100px;
+}
+
+.document-candidate{
+    height: 55px;
+    width: 55px;
+}
+
+.resume-info-candidate-uploaded{
+    margin-bottom: 0;
+}
+
+.resume-info-candidate-title{
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 290px;
+}
+
+.resume-image-candidate{
+    margin-right: 10px;
+}
+
+.candidate-more-vacancies{
+
+}
+
+.candidate-more-vacancies-container{
+    margin-top: 35px;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.custom-file-upload:hover{
+    cursor: pointer !important;
+}
+
+.vacancies-candidate-icon{
+    margin-right: 8px;
+    margin-bottom: 1px;
+    height: 19px;
+    width: 19px;
+}
+
+.profile-candidate-icon{
+    margin-right: 8px;
+    margin-bottom: 1px;
+    height: 20px;
+    width: 20px;
+}
+
+@media (min-width: 600px){
+    .container-box-resume{
+        display: flex;
+        align-items: center;
+    }
+
+    .candidate-choose-resume{
+        margin-left: 40px;
+    }
+}
+
+@media (max-width: 600px){
+    .box-resume{
+        width: 380px;
+    }
+
+    .candidate-choose-resume{
+        margin-top: 25px;
+    }
+}
+
+button.box-resume-button {
+    background: white;
+    border: none;
+    padding: 0;
+    text-align: left;
+}
+
+.resume-info-candidate {
+    color: var(--black);
+}
+
+.check-icon-small{
+    width: 18px;
+    height: 18px;
+    margin-right: 7px;
+    background: url("../images/checked.png"), white;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+    margin-top: 2px;
+}
+
+.check-icon-div-candidate{
+    display: flex;
+    margin-top: 5px;
+}
+
+.selected-file-text-label{
+    margin-bottom: 0;
+}

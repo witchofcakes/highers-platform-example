@@ -1,0 +1,365 @@
+.container-similar-vacancies{
+    text-align: center;
+}
+
+.similar-vac-text{
+    font-size: 28px;
+    color: var(--black);
+    font-weight: 700;
+    padding-bottom: 30px;
+    padding-top: 60px;
+}
+
+.similar-vacancies-button{
+    margin-top: 30px;
+    padding-bottom: 70px;
+}
+
+.logo-circle-vacancy-page{
+    object-fit: contain !important;
+    height: 100%;
+    width: 100%;
+    border-radius: 125px;
+}
+
+.vacancy-short-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.short-info-vacancy-page{
+    display: flex;
+}
+
+.logo-vacancy-page-div{
+    display: flex;
+    /*align-items: center;*/
+}
+
+.short-info-vacancy-text{
+    color: var(--black);
+    font-size: 16px;
+}
+
+.dot-short-info{
+    font-size: 16px;
+    margin: 0 7px 0 7px;
+}
+
+.vacancy-active-text{
+    color: var(--gray);
+    font-size: 13px;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.circle-active{
+    height: 7px;
+    width: 7px;
+    border-radius: 20px;
+    background: var(--green);
+    margin-right: 5px;
+}
+
+.circle-not-active{
+    height: 7px;
+    width: 7px;
+    border-radius: 20px;
+    background: var(--gray);
+    margin-right: 5px;
+}
+
+.vacancy-description-title{
+    font-weight: 700;
+    color: var(--black);
+}
+
+.vacancy-page-title-text {
+    color: var(--black);
+    font-weight: 700;
+    margin-bottom: 0;
+    word-break: break-word;
+}
+
+.padding-container-vacancy{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card-company-vacancy-text {
+    font-weight: 500;
+    font-size: 16px;
+    color: #767676;
+    margin-bottom: 0px;
+}
+
+.description-li-text{
+    font-size: 16px;
+    color: var(--black);
+}
+
+.description-p-text{
+    font-size: 16px;
+    color: var(--black);
+    margin-bottom: 0;
+}
+
+.short-info-vacancy-page-text{
+    margin-bottom: 0;
+}
+
+.line-vacancy-page{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.vacancy-body-description{
+    display: flex;
+}
+
+.description-block-text{
+    margin-bottom: 35px;
+}
+
+.apply-button-vacancy-page{
+    background: linear-gradient(to right, #ff8f1f, #ff741d, #ff621f);
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.apply-button-div{
+    text-align: center;
+    position: relative;
+}
+
+@media (min-width: 992px) {
+    .vacancy-div-title-logo{
+        display: flex;
+    }
+
+    .apply-button-inner-div{
+        position: sticky;
+        top: 50px;
+    }
+}
+
+@media (max-width: 992px) {
+    .vacancy-active-text{
+        margin-bottom: 30px;
+    }
+
+    .apply-button-inner-div{
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+}
+
+
+.logo-block-display{
+    display: flex;
+}
+
+.vacancy-active-div{
+    margin-right: 15px;
+}
+
+.label-form-second-text{
+    font-size: 14px;
+    color: var(--gray);
+    font-weight: 400;
+}
+
+.button-apply-form-div{
+    margin-top: 40px;
+}
+
+.button-apply-form{
+    border: none;
+    background: var(--black);
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 70px;
+}
+
+.popupbox-content {
+    padding: 20px 40px 30px;
+    overflow: auto !important;
+}
+
+.popupbox-wrapper {
+    height: 80vh;
+    border-radius: 15px;
+    overflow: auto;
+    max-width: 80%;
+    min-width: 300px;
+    background-color: white;
+}
+
+.popupbox-titleBar {
+    text-align: left;
+    font-weight: bold;
+    font-size: 18px;
+    text-shadow: none;
+    padding: 11px 40px 11px 40px;
+    /* border-bottom: 1px #ccc solid; */
+}
+
+.checkbox-apply-vacancies{
+    margin-top: 20px;
+}
+
+.agree-apply-text{
+    font-size: 16px;
+    color: var(--black);
+    font-weight: 400;
+}
+
+.agree-apply-link{
+    color: var(--blue);
+}
+
+div.filepicker {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    min-height: 120px;
+    border: 1.5px dashed #C7C7C7;
+    font-family: 'SF', 'Roboto', sans-serif;
+    color: var(--gray);
+}
+
+.enter-popup-text{
+    color: var(--blue);
+}
+
+.apply-vacancy-title-popup{
+    color: var(--black);
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.apply-vacancy-title-text{
+    display: flex;
+    justify-content: space-between;
+}
+
+.apply-vacancy-enter-popup{
+    display: flex;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: left;
+    flex-direction: column;
+}
+
+@media (min-width: 600px){
+    .logo-circle-vacancy{
+        margin-right: 25px;
+        border-radius: 125px;
+        height: 70px;
+        width: 70px;
+        margin-top: 3px;
+    }
+
+    .logo-circle-opportunity{
+        margin-right: 25px;
+        border-radius: 125px;
+        height: 95px;
+        width: 95px;
+        margin-top: 3px;
+    }
+
+    .vacancy-page-title-text{
+        font-size: 24px;
+    }
+
+}
+
+@media (max-width: 600px){
+    .logo-circle-vacancy{
+        margin-right: 20px;
+        border-radius: 125px;
+        height: 60px;
+        width: 60px;
+        margin-top: 3px;
+    }
+
+    .logo-circle-opportunity{
+        margin-right: 25px;
+        border-radius: 125px;
+        height: 85px;
+        width: 85px;
+        margin-top: 3px;
+    }
+
+    .vacancy-page-title-text{
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 480px){
+
+    .vacancy-description-title{
+        font-size: 20px;
+    }
+
+    .short-info-vacancy-page{
+        margin-top: 5px;
+    }
+}
+
+
+@media (max-width: 480px){
+    .logo-circle-vacancy{
+        margin-right: 20px;
+        border-radius: 125px;
+        height: 55px;
+        width: 55px;
+        margin-top: 3px;
+    }
+
+    .logo-circle-opportunity{
+        margin-right: 25px;
+        border-radius: 125px;
+        height: 75px;
+        width: 75px;
+        margin-top: 3px;
+    }
+
+    .short-info-vacancy-page{
+        margin-top: 15px;
+    }
+}
+
+
+@media (max-width: 430px){
+    .vacancy-page-title-text{
+        font-size: 20px;
+    }
+
+    .vacancy-description-title{
+        font-size: 18px;
+    }
+}
+
+.logo-circle-opportunity-page {
+    object-fit: contain !important;
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}
