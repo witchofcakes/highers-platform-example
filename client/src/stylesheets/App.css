@@ -1,0 +1,167 @@
+:root {
+  --orange: #FF7223;
+  --blue: #006AD3;
+  --lightgray: #f5f5f5;
+  --red: #FF4444;
+  --black: #1D1D1F;
+  --green: #2BA800;
+  --gray: #767676;
+}
+
+button{
+  outline: none!important;
+}
+
+body {
+  color: var(--black);
+  margin: 0;
+  font-family: 'SF', 'Roboto', sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a, a:hover{
+  text-decoration: none;
+}
+
+a:hover{
+  color: #006AD3;
+}
+
+.text-align-center{
+  text-align: center;
+}
+
+.display-center{
+  display: flex;
+  align-items: center;
+}
+
+.footer-link-text{
+  padding: 0 15px;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.logo-footer-text{
+  padding-right: 20px;
+}
+
+.logo-small-footer{
+  width: 30px;
+  height: 30px;
+}
+.center-row{
+  display: flex;
+  justify-content: center;
+}
+
+.justify-content-center {
+  display: flex;
+  justify-content: center!important;
+}
+
+.input-field{
+  width: 100%;
+  border-radius: 8px;
+  height: 45px;
+  border: 1px solid #f5f5f5;
+  padding: 10px;
+  font-size: 14px;
+}
+
+/*Button styles*/
+
+.round-button-border{
+  background: white;
+  font-weight: 600;
+  border: 1.5px solid var(--black);
+  border-radius: 25px;
+  padding: 8px 20px;
+  font-size: 14px;
+}
+
+.black-round-button{
+  background: var(--black);
+  font-weight: 500;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 25px;
+  font-size: 16px;
+  color: white;
+}
+
+.button-big-shadow{
+  background: white;
+  padding: 10px 25px;
+  color: var(--black);
+  font-weight: 600;
+  font-size: 16px;
+  border: 1px solid #E2E2E2;
+  box-shadow: 2px 4px 8px 1px rgba(112, 112, 112, 0.32);
+  border-radius: 40px;
+}
+
+/*Navbar styles*/
+
+nav{
+  z-index: 1000 !important;
+}
+
+.logo-full{
+  width: 125px;
+  height: 25px;
+}
+
+.nav-item{
+  list-style: none;
+  padding-right: 6px;
+  padding-left: 6px;
+}
+
+.nav-link{
+  font-size: 14px !important;
+  color: #1d1d1d !important;
+}
+
+.nav-item .nav-link:hover{
+  color: var(--blue) !important;
+}
+
+.enter-margin{
+  margin-right: 12px !important;
+}
+
+.navbar{
+  background: white;
+  height: 70px;
+  padding: 10px 30px !important;
+}
+
+.navbar-brand{
+  margin-right: 30px;
+}
+
+.enter-button{
+  font-size: 14px;
+  background: white;
+  border: none !important;
+  color: var(--black);
+  padding: .5rem 1rem;
+}
+
+.enter-button:hover, .enter-button:focus{
+  color: var(--blue) !important;
+  border: none !important;
+}
+
+.blue-link-button{
+  background: none;
+  border: none;
+  color: var(--blue);
+  font-size: 18px;
+  font-weight: 500;
+  padding-bottom: 80px;
+}
