@@ -17,9 +17,22 @@ export default function CompaniesBlock() {
                     </div>
                 </div>
             </div>
-            <div className="row">
-                <div className="col-12 text-align-center">
-                    <div className="companies-logo"></div>
+            <div className="row center-row">
+                <div className="col-12 col-lg-10 text-align-center">
+                    <div className="row companies-logo center-row">
+                        <div className="logo-company">
+                            <div className="deloitte-full"/>
+                        </div>
+                        <div className="logo-company">
+                            <div className="cola-full"/>
+                        </div>
+                        <div className="logo-company">
+                            <div className="danone-full"/>
+                        </div>
+                        <div className="logo-company">
+                            <div className="procredit-full"/>
+                        </div>
+                    </div>
                 </div>
             </div>
 

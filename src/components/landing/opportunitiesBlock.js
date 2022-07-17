@@ -8,7 +8,7 @@ export default function OpportunitiesBlock() {
                 <div className="col-12">
                     <div className="text-align-center padding-top-50">
                         <p className="main-landing-block-text">
-                            Кар'єрні можливості від найкращих компаній
+                            На HighersCareer ти знайдеш:
                         </p>
                         {/*<p className="secondary-landing-block-text">*/}
                         {/*    які забезпечують кар’єрне зростання, комфортні умови роботи та дружній колектив*/}

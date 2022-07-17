@@ -57,7 +57,18 @@
     font-weight: 700;
 }
 
+.companies-logo{
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
 @media (max-width: 600px){
+
+    .companies-logo{
+        display: flex;
+        justify-content: center;
+    }
+
     .main-landing-block-text {
         font-size: 25px;
         font-weight: 700;
@@ -76,11 +87,6 @@
     .padding-top-50{
         padding-top: 50px;
     }
-}
-
-.companies-logo{
-    height: 350px;
-    width: 10px;
 }
 
 .background-gray{
@@ -342,3 +348,57 @@
 .contact-us-place-vacancy-div{
     margin-top: 50px;
 }
+
+.logo-company{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.deloitte-full{
+    background: url("../images/deloitte-full.png");
+    background-size: contain;
+    height: 100px;
+    width: 180px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cola-full{
+    background: url("../images/cola.jpg");
+    background-size: contain;
+    height: 100px;
+    width: 180px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.danone-full{
+    background: url("../images/danone.png");
+    background-size: contain;
+    height: 100px;
+    width: 180px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.procredit-full{
+    background: url("../images/procredit-full.png");
+    background-size: contain;
+    height: 100px;
+    width: 180px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media (min-width: 600px){
+    .center-desktop{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .center-text{
+        text-align: center;
+    }
+}
+

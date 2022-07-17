@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e6cef36c-5ba8-43fb-b410-f91cda1cb2c7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landing/companiesBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landing/companiesBlock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landing/opportunitiesBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landing/opportunitiesBlock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landing/startCareerEasyBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landing/startCareerEasyBlock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stylesheets/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/stylesheets/landing.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/tanya/WebstormProjects/platform/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tanya\WebstormProjects\platform\public" />
       <recent name="C:\Users\tanya\WebstormProjects\platform\client\src\components" />
       <recent name="C:\Users\tanya\WebstormProjects\platform\client\src\images" />
       <recent name="C:\Users\tanya\WebstormProjects\platform" />
@@ -91,7 +102,7 @@
       <workItem from="1639301331433" duration="20355000" />
       <workItem from="1658063450122" duration="24000" />
       <workItem from="1658064737535" duration="1871000" />
-      <workItem from="1658066689053" duration="597000" />
+      <workItem from="1658066689053" duration="5675000" />
     </task>
     <servers />
   </component>
